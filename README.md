@@ -1,4 +1,4 @@
-# Adaptive Envelope System for Environmental Control
+# Adaptive Envelope System for Environmental and Manual Control
 
 Within this repository lies the culmination of our research into the symbiosis of human-computer interaction and environmental design through the "Dynamic Insulated Shutter System for a Double-Layer Building Facade." This project serves as a testament to our dedication to enhancing sustainability and occupant comfort in built environments through innovative, adaptive facade systems.
 
